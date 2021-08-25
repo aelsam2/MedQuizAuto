@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-25T11:24:30 IST" name="Suite" finished-at="2021-08-25T11:25:07 IST" duration-ms="36446">
+    <groups>
+    </groups>
+    <test started-at="2021-08-25T11:24:30 IST" name="chromeTest" finished-at="2021-08-25T11:25:07 IST" duration-ms="36446">
+      <class name="testCases.NewTest">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:testCases.NewTest@2f217633]" started-at="2021-08-25T11:24:30 IST" name="beforeTest" finished-at="2021-08-25T11:24:41 IST" duration-ms="10055" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testCases.NewTest@2f217633]" started-at="2021-08-25T11:24:41 IST" name="beforeClass" finished-at="2021-08-25T11:24:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f()[pri:0, instance:testCases.NewTest@2f217633]" started-at="2021-08-25T11:24:41 IST" name="f" finished-at="2021-08-25T11:25:07 IST" duration-ms="26353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testCases.NewTest@2f217633]" started-at="2021-08-25T11:25:07 IST" name="afterClass" finished-at="2021-08-25T11:25:07 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:testCases.NewTest@2f217633]" started-at="2021-08-25T11:25:07 IST" name="afterTest" finished-at="2021-08-25T11:25:07 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- testCases.NewTest -->
+    </test> <!-- chromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
